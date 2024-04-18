@@ -1,0 +1,306 @@
+
+
+
+
+  3%|███                                                                                                     | 30/1000 [00:07<04:03,  3.99it/s]
+
+
+  5%|█████▏                                                                                                  | 50/1000 [00:12<03:47,  4.18it/s][INFO|trainer.py:3305] 2024-04-18 16:08:56,403 >> Saving model checkpoint to checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-50
+[INFO|configuration_utils.py:471] 2024-04-18 16:08:56,404 >> Configuration saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-50/config.json
+[INFO|configuration_utils.py:697] 2024-04-18 16:08:56,404 >> Configuration saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-50/generation_config.json
+{'loss': 1.8018, 'grad_norm': 50.66169738769531, 'learning_rate': 5e-06, 'epoch': 0.02}
+[INFO|modeling_utils.py:2590] 2024-04-18 16:08:59,630 >> Model weights saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-50/model.safetensors
+[INFO|tokenization_utils_base.py:2488] 2024-04-18 16:08:59,632 >> tokenizer config file saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-50/tokenizer_config.json
+[INFO|tokenization_utils_base.py:2497] 2024-04-18 16:08:59,632 >> Special tokens file saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-50/special_tokens_map.json
+[INFO|tokenization_utils_base.py:2548] 2024-04-18 16:08:59,632 >> added tokens file saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-50/added_tokens.json
+
+
+
+  8%|███████▊                                                                                                | 75/1000 [00:27<03:51,  4.00it/s]
+
+
+
+ 10%|██████████▎                                                                                             | 99/1000 [00:33<03:37,  4.15it/s]
+ 10%|██████████▎                                                                                            | 100/1000 [00:33<03:38,  4.11it/s][INFO|trainer.py:3305] 2024-04-18 16:09:17,631 >> Saving model checkpoint to checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-100
+[INFO|configuration_utils.py:471] 2024-04-18 16:09:17,632 >> Configuration saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-100/config.json
+[INFO|configuration_utils.py:697] 2024-04-18 16:09:17,633 >> Configuration saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-100/generation_config.json
+[INFO|modeling_utils.py:2590] 2024-04-18 16:09:20,741 >> Model weights saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-100/model.safetensors
+[INFO|tokenization_utils_base.py:2488] 2024-04-18 16:09:20,742 >> tokenizer config file saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-100/tokenizer_config.json
+[INFO|tokenization_utils_base.py:2497] 2024-04-18 16:09:20,743 >> Special tokens file saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-100/special_tokens_map.json
+[INFO|tokenization_utils_base.py:2548] 2024-04-18 16:09:20,743 >> added tokens file saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-100/added_tokens.json
+
+
+
+ 13%|█████████████▎                                                                                         | 129/1000 [00:49<03:35,  4.03it/s]
+
+
+ 15%|███████████████▍                                                                                       | 150/1000 [00:55<03:30,  4.03it/s][INFO|trainer.py:3305] 2024-04-18 16:09:38,752 >> Saving model checkpoint to checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-150
+[INFO|configuration_utils.py:471] 2024-04-18 16:09:38,752 >> Configuration saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-150/config.json
+[INFO|configuration_utils.py:697] 2024-04-18 16:09:38,753 >> Configuration saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-150/generation_config.json
+{'loss': 1.1306, 'grad_norm': 50.289546966552734, 'learning_rate': 9.924038765061042e-06, 'epoch': 0.07}
+[INFO|modeling_utils.py:2590] 2024-04-18 16:09:41,848 >> Model weights saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-150/model.safetensors
+[INFO|tokenization_utils_base.py:2488] 2024-04-18 16:09:41,849 >> tokenizer config file saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-150/tokenizer_config.json
+[INFO|tokenization_utils_base.py:2497] 2024-04-18 16:09:41,850 >> Special tokens file saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-150/special_tokens_map.json
+[INFO|tokenization_utils_base.py:2548] 2024-04-18 16:09:41,850 >> added tokens file saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-150/added_tokens.json
+
+
+ 18%|██████████████████                                                                                     | 175/1000 [01:09<03:30,  3.92it/s]
+
+
+
+ 20%|████████████████████▍                                                                                  | 199/1000 [01:15<03:17,  4.05it/s]
+ 20%|████████████████████▌                                                                                  | 200/1000 [01:16<03:12,  4.15it/s][INFO|trainer.py:3305] 2024-04-18 16:09:59,827 >> Saving model checkpoint to checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-200
+[INFO|configuration_utils.py:471] 2024-04-18 16:09:59,828 >> Configuration saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-200/config.json
+[INFO|configuration_utils.py:697] 2024-04-18 16:09:59,829 >> Configuration saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-200/generation_config.json
+[INFO|modeling_utils.py:2590] 2024-04-18 16:10:02,991 >> Model weights saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-200/model.safetensors
+[INFO|tokenization_utils_base.py:2488] 2024-04-18 16:10:02,992 >> tokenizer config file saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-200/tokenizer_config.json
+[INFO|tokenization_utils_base.py:2497] 2024-04-18 16:10:02,993 >> Special tokens file saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-200/special_tokens_map.json
+[INFO|tokenization_utils_base.py:2548] 2024-04-18 16:10:02,993 >> added tokens file saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-200/added_tokens.json
+
+
+
+ 23%|███████████████████████▍                                                                               | 228/1000 [01:31<03:13,  3.98it/s]
+
+
+ 25%|█████████████████████████▊                                                                             | 250/1000 [01:37<03:01,  4.13it/s][INFO|trainer.py:3305] 2024-04-18 16:10:21,169 >> Saving model checkpoint to checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-250
+[INFO|configuration_utils.py:471] 2024-04-18 16:10:21,170 >> Configuration saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-250/config.json
+[INFO|configuration_utils.py:697] 2024-04-18 16:10:21,170 >> Configuration saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-250/generation_config.json
+{'loss': 1.1118, 'grad_norm': 46.34710693359375, 'learning_rate': 9.330127018922195e-06, 'epoch': 0.12}
+[INFO|modeling_utils.py:2590] 2024-04-18 16:10:24,262 >> Model weights saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-250/model.safetensors
+[INFO|tokenization_utils_base.py:2488] 2024-04-18 16:10:24,263 >> tokenizer config file saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-250/tokenizer_config.json
+[INFO|tokenization_utils_base.py:2497] 2024-04-18 16:10:24,263 >> Special tokens file saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-250/special_tokens_map.json
+[INFO|tokenization_utils_base.py:2548] 2024-04-18 16:10:24,263 >> added tokens file saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-250/added_tokens.json
+
+
+ 27%|████████████████████████████▏                                                                          | 274/1000 [01:51<03:01,  4.00it/s]
+
+
+
+ 30%|██████████████████████████████▋                                                                        | 298/1000 [01:57<02:52,  4.07it/s]
+ 30%|██████████████████████████████▉                                                                        | 300/1000 [01:58<02:54,  4.02it/s][INFO|trainer.py:3305] 2024-04-18 16:10:42,188 >> Saving model checkpoint to checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-300
+[INFO|configuration_utils.py:471] 2024-04-18 16:10:42,189 >> Configuration saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-300/config.json
+[INFO|configuration_utils.py:697] 2024-04-18 16:10:42,190 >> Configuration saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-300/generation_config.json
+[INFO|modeling_utils.py:2590] 2024-04-18 16:10:45,314 >> Model weights saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-300/model.safetensors
+[INFO|tokenization_utils_base.py:2488] 2024-04-18 16:10:45,315 >> tokenizer config file saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-300/tokenizer_config.json
+[INFO|tokenization_utils_base.py:2497] 2024-04-18 16:10:45,316 >> Special tokens file saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-300/special_tokens_map.json
+[INFO|tokenization_utils_base.py:2548] 2024-04-18 16:10:45,316 >> added tokens file saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-300/added_tokens.json
+
+
+
+ 33%|█████████████████████████████████▊                                                                     | 328/1000 [02:13<02:47,  4.00it/s]
+
+
+ 35%|████████████████████████████████████                                                                   | 350/1000 [02:19<02:44,  3.96it/s][INFO|trainer.py:3305] 2024-04-18 16:11:03,260 >> Saving model checkpoint to checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-350
+[INFO|configuration_utils.py:471] 2024-04-18 16:11:03,261 >> Configuration saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-350/config.json
+[INFO|configuration_utils.py:697] 2024-04-18 16:11:03,261 >> Configuration saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-350/generation_config.json
+{'loss': 0.9607, 'grad_norm': 12.742912292480469, 'learning_rate': 8.213938048432697e-06, 'epoch': 0.17}
+[INFO|modeling_utils.py:2590] 2024-04-18 16:11:06,386 >> Model weights saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-350/model.safetensors
+[INFO|tokenization_utils_base.py:2488] 2024-04-18 16:11:06,387 >> tokenizer config file saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-350/tokenizer_config.json
+[INFO|tokenization_utils_base.py:2497] 2024-04-18 16:11:06,388 >> Special tokens file saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-350/special_tokens_map.json
+[INFO|tokenization_utils_base.py:2548] 2024-04-18 16:11:06,388 >> added tokens file saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-350/added_tokens.json
+
+
+ 37%|██████████████████████████████████████▍                                                                | 373/1000 [02:33<02:38,  3.95it/s]
+
+
+
+ 40%|█████████████████████████████████████████▏                                                             | 400/1000 [02:40<02:32,  3.95it/s][INFO|trainer.py:3305] 2024-04-18 16:11:24,610 >> Saving model checkpoint to checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-400
+[INFO|configuration_utils.py:471] 2024-04-18 16:11:24,610 >> Configuration saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-400/config.json
+[INFO|configuration_utils.py:697] 2024-04-18 16:11:24,611 >> Configuration saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-400/generation_config.json
+{'loss': 0.8505, 'grad_norm': 13.227023124694824, 'learning_rate': 7.500000000000001e-06, 'epoch': 0.2}
+[INFO|modeling_utils.py:2590] 2024-04-18 16:11:27,817 >> Model weights saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-400/model.safetensors
+[INFO|tokenization_utils_base.py:2488] 2024-04-18 16:11:27,818 >> tokenizer config file saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-400/tokenizer_config.json
+[INFO|tokenization_utils_base.py:2497] 2024-04-18 16:11:27,818 >> Special tokens file saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-400/special_tokens_map.json
+[INFO|tokenization_utils_base.py:2548] 2024-04-18 16:11:27,818 >> added tokens file saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-400/added_tokens.json
+
+
+
+ 42%|███████████████████████████████████████████▊                                                           | 425/1000 [02:55<02:27,  3.90it/s]
+
+
+
+ 45%|██████████████████████████████████████████████▏                                                        | 449/1000 [03:01<02:18,  3.99it/s]
+ 45%|██████████████████████████████████████████████▎                                                        | 450/1000 [03:02<02:20,  3.92it/s][INFO|trainer.py:3305] 2024-04-18 16:11:45,979 >> Saving model checkpoint to checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-450
+[INFO|configuration_utils.py:471] 2024-04-18 16:11:45,980 >> Configuration saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-450/config.json
+[INFO|configuration_utils.py:697] 2024-04-18 16:11:45,980 >> Configuration saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-450/generation_config.json
+[INFO|modeling_utils.py:2590] 2024-04-18 16:11:49,167 >> Model weights saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-450/model.safetensors
+[INFO|tokenization_utils_base.py:2488] 2024-04-18 16:11:49,168 >> tokenizer config file saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-450/tokenizer_config.json
+[INFO|tokenization_utils_base.py:2497] 2024-04-18 16:11:49,168 >> Special tokens file saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-450/special_tokens_map.json
+[INFO|tokenization_utils_base.py:2548] 2024-04-18 16:11:49,168 >> added tokens file saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-450/added_tokens.json
+
+
+
+ 48%|█████████████████████████████████████████████████▏                                                     | 477/1000 [03:17<02:16,  3.82it/s]
+
+
+ 50%|███████████████████████████████████████████████████▌                                                   | 500/1000 [03:23<02:04,  4.01it/s][INFO|trainer.py:3305] 2024-04-18 16:12:07,474 >> Saving model checkpoint to checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-500
+[INFO|configuration_utils.py:471] 2024-04-18 16:12:07,475 >> Configuration saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-500/config.json
+[INFO|configuration_utils.py:697] 2024-04-18 16:12:07,475 >> Configuration saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-500/generation_config.json
+{'loss': 0.6954, 'grad_norm': 14.363334655761719, 'learning_rate': 5.8682408883346535e-06, 'epoch': 0.25}
+[INFO|modeling_utils.py:2590] 2024-04-18 16:12:10,588 >> Model weights saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-500/model.safetensors
+[INFO|tokenization_utils_base.py:2488] 2024-04-18 16:12:10,589 >> tokenizer config file saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-500/tokenizer_config.json
+[INFO|tokenization_utils_base.py:2497] 2024-04-18 16:12:10,589 >> Special tokens file saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-500/special_tokens_map.json
+[INFO|tokenization_utils_base.py:2548] 2024-04-18 16:12:10,590 >> added tokens file saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-500/added_tokens.json
+
+
+
+ 53%|██████████████████████████████████████████████████████▋                                                | 531/1000 [03:39<02:00,  3.88it/s]
+
+
+ 55%|████████████████████████████████████████████████████████▋                                              | 550/1000 [03:44<01:51,  4.04it/s][INFO|trainer.py:3305] 2024-04-18 16:12:28,537 >> Saving model checkpoint to checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-550
+[INFO|configuration_utils.py:471] 2024-04-18 16:12:28,538 >> Configuration saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-550/config.json
+[INFO|configuration_utils.py:697] 2024-04-18 16:12:28,539 >> Configuration saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-550/generation_config.json
+{'loss': 1.0164, 'grad_norm': 50.140724182128906, 'learning_rate': 5e-06, 'epoch': 0.27}
+[INFO|modeling_utils.py:2590] 2024-04-18 16:12:31,791 >> Model weights saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-550/model.safetensors
+[INFO|tokenization_utils_base.py:2488] 2024-04-18 16:12:31,793 >> tokenizer config file saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-550/tokenizer_config.json
+[INFO|tokenization_utils_base.py:2497] 2024-04-18 16:12:31,793 >> Special tokens file saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-550/special_tokens_map.json
+[INFO|tokenization_utils_base.py:2548] 2024-04-18 16:12:31,793 >> added tokens file saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-550/added_tokens.json
+
+
+
+ 58%|███████████████████████████████████████████████████████████▍                                           | 577/1000 [04:00<01:46,  3.99it/s]
+
+
+ 60%|█████████████████████████████████████████████████████████████▊                                         | 600/1000 [04:06<01:39,  4.01it/s][INFO|trainer.py:3305] 2024-04-18 16:12:49,835 >> Saving model checkpoint to checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-600
+[INFO|configuration_utils.py:471] 2024-04-18 16:12:49,836 >> Configuration saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-600/config.json
+[INFO|configuration_utils.py:697] 2024-04-18 16:12:49,836 >> Configuration saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-600/generation_config.json
+{'loss': 0.6658, 'grad_norm': 12.04556655883789, 'learning_rate': 4.131759111665349e-06, 'epoch': 0.3}
+[INFO|modeling_utils.py:2590] 2024-04-18 16:12:53,008 >> Model weights saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-600/model.safetensors
+[INFO|tokenization_utils_base.py:2488] 2024-04-18 16:12:53,009 >> tokenizer config file saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-600/tokenizer_config.json
+[INFO|tokenization_utils_base.py:2497] 2024-04-18 16:12:53,009 >> Special tokens file saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-600/special_tokens_map.json
+[INFO|tokenization_utils_base.py:2548] 2024-04-18 16:12:53,010 >> added tokens file saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-600/added_tokens.json
+
+
+
+ 63%|████████████████████████████████████████████████████████████████▊                                      | 629/1000 [04:22<01:36,  3.86it/s]
+
+
+ 65%|██████████████████████████████████████████████████████████████████▉                                    | 650/1000 [04:27<01:28,  3.94it/s][INFO|trainer.py:3305] 2024-04-18 16:13:11,289 >> Saving model checkpoint to checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-650
+[INFO|configuration_utils.py:471] 2024-04-18 16:13:11,290 >> Configuration saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-650/config.json
+[INFO|configuration_utils.py:697] 2024-04-18 16:13:11,290 >> Configuration saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-650/generation_config.json
+{'loss': 0.6959, 'grad_norm': 45.82693862915039, 'learning_rate': 3.289899283371657e-06, 'epoch': 0.32}
+[INFO|modeling_utils.py:2590] 2024-04-18 16:13:14,460 >> Model weights saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-650/model.safetensors
+[INFO|tokenization_utils_base.py:2488] 2024-04-18 16:13:14,460 >> tokenizer config file saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-650/tokenizer_config.json
+[INFO|tokenization_utils_base.py:2497] 2024-04-18 16:13:14,461 >> Special tokens file saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-650/special_tokens_map.json
+[INFO|tokenization_utils_base.py:2548] 2024-04-18 16:13:14,461 >> added tokens file saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-650/added_tokens.json
+
+
+
+ 68%|██████████████████████████████████████████████████████████████████████▏                                | 681/1000 [04:44<01:21,  3.91it/s]
+
+
+ 70%|████████████████████████████████████████████████████████████████████████                               | 700/1000 [04:48<01:16,  3.95it/s][INFO|trainer.py:3305] 2024-04-18 16:13:32,669 >> Saving model checkpoint to checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-700
+[INFO|configuration_utils.py:471] 2024-04-18 16:13:32,670 >> Configuration saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-700/config.json
+[INFO|configuration_utils.py:697] 2024-04-18 16:13:32,671 >> Configuration saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-700/generation_config.json
+{'loss': 0.6843, 'grad_norm': 13.71507453918457, 'learning_rate': 2.5000000000000015e-06, 'epoch': 0.35}
+[INFO|modeling_utils.py:2590] 2024-04-18 16:13:35,780 >> Model weights saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-700/model.safetensors
+[INFO|tokenization_utils_base.py:2488] 2024-04-18 16:13:35,781 >> tokenizer config file saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-700/tokenizer_config.json
+[INFO|tokenization_utils_base.py:2497] 2024-04-18 16:13:35,781 >> Special tokens file saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-700/special_tokens_map.json
+[INFO|tokenization_utils_base.py:2548] 2024-04-18 16:13:35,781 >> added tokens file saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-700/added_tokens.json
+
+
+
+ 73%|██████████████████████████████████████████████████████████████████████████▉                            | 727/1000 [05:04<01:07,  4.01it/s]
+
+
+
+ 75%|█████████████████████████████████████████████████████████████████████████████▎                         | 750/1000 [05:10<01:01,  4.08it/s]
+ 75%|█████████████████████████████████████████████████████████████████████████████▎                         | 750/1000 [05:10<01:01,  4.08it/s][INFO|trainer.py:3305] 2024-04-18 16:13:54,180 >> Saving model checkpoint to checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-750
+[INFO|configuration_utils.py:471] 2024-04-18 16:13:54,181 >> Configuration saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-750/config.json
+[INFO|configuration_utils.py:697] 2024-04-18 16:13:54,181 >> Configuration saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-750/generation_config.json
+[INFO|modeling_utils.py:2590] 2024-04-18 16:13:57,310 >> Model weights saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-750/model.safetensors
+[INFO|tokenization_utils_base.py:2488] 2024-04-18 16:13:57,311 >> tokenizer config file saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-750/tokenizer_config.json
+[INFO|tokenization_utils_base.py:2497] 2024-04-18 16:13:57,311 >> Special tokens file saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-750/special_tokens_map.json
+[INFO|tokenization_utils_base.py:2548] 2024-04-18 16:13:57,311 >> added tokens file saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-750/added_tokens.json
+
+
+
+ 78%|████████████████████████████████████████████████████████████████████████████████▏                      | 779/1000 [05:26<00:55,  3.98it/s]
+
+
+ 80%|██████████████████████████████████████████████████████████████████████████████████▍                    | 800/1000 [05:31<00:50,  3.99it/s][INFO|trainer.py:3305] 2024-04-18 16:14:15,337 >> Saving model checkpoint to checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-800
+[INFO|configuration_utils.py:471] 2024-04-18 16:14:15,337 >> Configuration saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-800/config.json
+[INFO|configuration_utils.py:697] 2024-04-18 16:14:15,338 >> Configuration saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-800/generation_config.json
+{'loss': 0.7436, 'grad_norm': 124.93375396728516, 'learning_rate': 1.1697777844051105e-06, 'epoch': 0.4}
+[INFO|modeling_utils.py:2590] 2024-04-18 16:14:18,481 >> Model weights saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-800/model.safetensors
+[INFO|tokenization_utils_base.py:2488] 2024-04-18 16:14:18,482 >> tokenizer config file saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-800/tokenizer_config.json
+[INFO|tokenization_utils_base.py:2497] 2024-04-18 16:14:18,482 >> Special tokens file saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-800/special_tokens_map.json
+[INFO|tokenization_utils_base.py:2548] 2024-04-18 16:14:18,482 >> added tokens file saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-800/added_tokens.json
+
+
+
+ 83%|█████████████████████████████████████████████████████████████████████████████████████▋                 | 832/1000 [05:48<00:42,  3.92it/s]
+
+
+ 85%|███████████████████████████████████████████████████████████████████████████████████████▌               | 850/1000 [05:53<00:35,  4.19it/s][INFO|trainer.py:3305] 2024-04-18 16:14:36,804 >> Saving model checkpoint to checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-850
+[INFO|configuration_utils.py:471] 2024-04-18 16:14:36,805 >> Configuration saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-850/config.json
+[INFO|configuration_utils.py:697] 2024-04-18 16:14:36,805 >> Configuration saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-850/generation_config.json
+{'loss': 0.7916, 'grad_norm': 33.25421905517578, 'learning_rate': 6.698729810778065e-07, 'epoch': 0.42}
+[INFO|modeling_utils.py:2590] 2024-04-18 16:14:39,887 >> Model weights saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-850/model.safetensors
+[INFO|tokenization_utils_base.py:2488] 2024-04-18 16:14:39,888 >> tokenizer config file saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-850/tokenizer_config.json
+[INFO|tokenization_utils_base.py:2497] 2024-04-18 16:14:39,888 >> Special tokens file saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-850/special_tokens_map.json
+[INFO|tokenization_utils_base.py:2548] 2024-04-18 16:14:39,888 >> added tokens file saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-850/added_tokens.json
+
+
+
+ 88%|██████████████████████████████████████████████████████████████████████████████████████████▏            | 875/1000 [06:07<00:31,  3.91it/s]
+
+
+ 90%|████████████████████████████████████████████████████████████████████████████████████████████▋          | 900/1000 [06:14<00:24,  4.00it/s][INFO|trainer.py:3305] 2024-04-18 16:14:57,970 >> Saving model checkpoint to checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-900
+[INFO|configuration_utils.py:471] 2024-04-18 16:14:57,971 >> Configuration saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-900/config.json
+[INFO|configuration_utils.py:697] 2024-04-18 16:14:57,971 >> Configuration saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-900/generation_config.json
+{'loss': 0.7892, 'grad_norm': 0.00013835073332302272, 'learning_rate': 3.015368960704584e-07, 'epoch': 0.45}
+[INFO|modeling_utils.py:2590] 2024-04-18 16:15:01,144 >> Model weights saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-900/model.safetensors
+[INFO|tokenization_utils_base.py:2488] 2024-04-18 16:15:01,145 >> tokenizer config file saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-900/tokenizer_config.json
+[INFO|tokenization_utils_base.py:2497] 2024-04-18 16:15:01,145 >> Special tokens file saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-900/special_tokens_map.json
+[INFO|tokenization_utils_base.py:2548] 2024-04-18 16:15:01,145 >> added tokens file saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-900/added_tokens.json
+
+
+
+ 93%|███████████████████████████████████████████████████████████████████████████████████████████████▋       | 929/1000 [06:30<00:18,  3.94it/s]
+
+
+ 95%|█████████████████████████████████████████████████████████████████████████████████████████████████▊     | 950/1000 [06:35<00:12,  4.11it/s][INFO|trainer.py:3305] 2024-04-18 16:15:19,486 >> Saving model checkpoint to checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-950
+[INFO|configuration_utils.py:471] 2024-04-18 16:15:19,487 >> Configuration saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-950/config.json
+[INFO|configuration_utils.py:697] 2024-04-18 16:15:19,487 >> Configuration saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-950/generation_config.json
+{'loss': 0.7973, 'grad_norm': 32.256099700927734, 'learning_rate': 7.59612349389599e-08, 'epoch': 0.47}
+[INFO|modeling_utils.py:2590] 2024-04-18 16:15:22,655 >> Model weights saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-950/model.safetensors
+[INFO|tokenization_utils_base.py:2488] 2024-04-18 16:15:22,656 >> tokenizer config file saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-950/tokenizer_config.json
+[INFO|tokenization_utils_base.py:2497] 2024-04-18 16:15:22,657 >> Special tokens file saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-950/special_tokens_map.json
+[INFO|tokenization_utils_base.py:2548] 2024-04-18 16:15:22,657 >> added tokens file saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-950/added_tokens.json
+
+
+
+ 98%|█████████████████████████████████████████████████████████████████████████████████████████████████████▏ | 982/1000 [06:52<00:04,  4.02it/s]
+
+
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████| 1000/1000 [06:57<00:00,  4.03it/s][INFO|trainer.py:3305] 2024-04-18 16:15:41,074 >> Saving model checkpoint to checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-1000
+[INFO|configuration_utils.py:471] 2024-04-18 16:15:41,075 >> Configuration saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-1000/config.json
+[INFO|configuration_utils.py:697] 2024-04-18 16:15:41,075 >> Configuration saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-1000/generation_config.json
+{'loss': 0.8992, 'grad_norm': 63.872337341308594, 'learning_rate': 0.0, 'epoch': 0.5}
+[INFO|modeling_utils.py:2590] 2024-04-18 16:15:44,171 >> Model weights saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-1000/model.safetensors
+[INFO|tokenization_utils_base.py:2488] 2024-04-18 16:15:44,171 >> tokenizer config file saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-1000/tokenizer_config.json
+[INFO|tokenization_utils_base.py:2497] 2024-04-18 16:15:44,172 >> Special tokens file saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-1000/special_tokens_map.json
+[INFO|tokenization_utils_base.py:2548] 2024-04-18 16:15:44,172 >> added tokens file saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/checkpoint-1000/added_tokens.json
+[INFO|trainer.py:2316] 2024-04-18 16:15:49,522 >>
+Training completed. Do not forget to share your model on huggingface.co/models =)
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████| 1000/1000 [07:05<00:00,  2.35it/s]
+[INFO|trainer.py:3305] 2024-04-18 16:15:49,540 >> Saving model checkpoint to checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512
+[INFO|configuration_utils.py:471] 2024-04-18 16:15:49,541 >> Configuration saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/config.json
+[INFO|configuration_utils.py:697] 2024-04-18 16:15:49,542 >> Configuration saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/generation_config.json
+{'train_runtime': 427.1799, 'train_samples_per_second': 2.341, 'train_steps_per_second': 2.341, 'train_loss': 1.0164632654190064, 'epoch': 0.5}
+[INFO|modeling_utils.py:2590] 2024-04-18 16:15:52,664 >> Model weights saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/model.safetensors
+[INFO|tokenization_utils_base.py:2488] 2024-04-18 16:15:52,665 >> tokenizer config file saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/tokenizer_config.json
+[INFO|tokenization_utils_base.py:2497] 2024-04-18 16:15:52,665 >> Special tokens file saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/special_tokens_map.json
+[INFO|tokenization_utils_base.py:2548] 2024-04-18 16:15:52,665 >> added tokens file saved in checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/added_tokens.json
+[INFO|modelcard.py:450] 2024-04-18 16:15:53,054 >> Dropping the following result as it does not have all the necessary fields:
+{'task': {'name': 'Causal Language Modeling', 'type': 'text-generation'}}
+***** train metrics *****
+  epoch                    =      0.497
+  total_flos               =   667162GF
+  train_loss               =     1.0165
+  train_runtime            = 0:07:07.17
+  train_samples_per_second =      2.341
+  train_steps_per_second   =      2.341
+Figure saved at: checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512/training_loss.png
+04/18/2024 16:15:53 - WARNING - llmtuner.extras.ploting - No metric eval_loss to plot.

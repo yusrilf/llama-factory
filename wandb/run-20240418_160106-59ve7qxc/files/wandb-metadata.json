@@ -1,0 +1,245 @@
+{
+    "os": "Linux-6.2.0-37-generic-x86_64-with-glibc2.35",
+    "python": "3.10.12",
+    "heartbeatAt": "2024-04-18T16:01:07.113743",
+    "startedAt": "2024-04-18T16:01:06.728552",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--stage",
+        "sft",
+        "--do_train",
+        "True",
+        "--model_name_or_path",
+        "sail/Sailor-1.8B-Chat",
+        "--finetuning_type",
+        "full",
+        "--template",
+        "sailor",
+        "--dataset_dir",
+        "data",
+        "--dataset",
+        "komcad",
+        "--cutoff_len",
+        "250",
+        "--learning_rate",
+        "1e-5",
+        "--per_device_train_batch_size",
+        "1",
+        "--gradient_accumulation_steps",
+        "1",
+        "--lr_scheduler_type",
+        "cosine",
+        "--weight_decay",
+        "0.1",
+        "--max_grad_norm",
+        "1.0",
+        "--logging_steps",
+        "25",
+        "--flash_attn",
+        "--max_steps",
+        "1000",
+        "--save_steps",
+        "50",
+        "--warmup_steps",
+        "100",
+        "--output_dir",
+        "checkpoints/Sailor_4b_sft_komcad_lr1e-5_bs_512",
+        "--bf16",
+        "True",
+        "--plot_loss",
+        "True",
+        "--report_to",
+        "wandb",
+        "--overwrite_output_dir"
+    ],
+    "state": "running",
+    "program": "/home/ubuntu/verb-workspace/LLaMA-Factory/src/train_bash.py",
+    "codePathLocal": "src/train_bash.py",
+    "codePath": "src/train_bash.py",
+    "git": {
+        "remote": "https://github.com/hiyouga/LLaMA-Factory.git",
+        "commit": "942362d0087345e468e0ae541dcca9b684d74d1a"
+    },
+    "email": null,
+    "root": "/home/ubuntu/verb-workspace/LLaMA-Factory",
+    "host": "verb-workspace",
+    "username": "ubuntu",
+    "executable": "/home/ubuntu/.pyenv/versions/3.10.14/bin/python",
+    "cpu_count": 30,
+    "cpu_count_logical": 30,
+    "cpu_freq": {
+        "current": 2593.9640000000004,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2593.964,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2593.964,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2593.964,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2593.964,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2593.964,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2593.964,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2593.964,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2593.964,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2593.964,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2593.964,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2593.964,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2593.964,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2593.964,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2593.964,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2593.964,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2593.964,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2593.964,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2593.964,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2593.964,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2593.964,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2593.964,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2593.964,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2593.964,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2593.964,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2593.964,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2593.964,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2593.964,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2593.964,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2593.964,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2593.964,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 1356.6585998535156,
+            "used": 56.03483581542969
+        }
+    },
+    "gpu": "NVIDIA A10",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA A10",
+            "memory_total": 24146608128
+        }
+    ],
+    "memory": {
+        "total": 196.56394958496094
+    }
+}
